@@ -1,0 +1,24 @@
+@import url(reset.css);
+@import url(font.css);
+/* site style */
+
+@import url(myStayles/header.css);
+@import url(myStayles/nav.css);
+@import url(myStayles/topic.css);
+@import url(myStayles/best-selling.css);
+@import url(myStayles/recent-product.css);
+@import url(myStayles/footer.css);
+@import url(myStayles/shop.css);
+@import url(myStayles/blog.css);
+@import url(myStayles/det.css);
+@import url(myStayles/login-register.css);
+
+
+.container {
+    max-width: 1300px;
+    margin: 20px auto auto auto;
+}
+
+body {
+    background-color: #f9f9f9;
+}
